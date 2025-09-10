@@ -1,5 +1,5 @@
-#define COMPONENT addonName
-#define COMPONENT_BEAUTIFIED Addon Name
+#define COMPONENT userconfig
+#define COMPONENT_BEAUTIFIED Userconfig
 #include "\z\ttt_userconfig\addons\main\script_mod.hpp"
 
 // #define DEBUG_MODE_FULL
